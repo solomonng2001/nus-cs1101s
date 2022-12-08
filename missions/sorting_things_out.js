@@ -29,3 +29,15 @@ function quicksort(xs) {
 // Test
 // const my_list = list(23, 12, 56, 92, -2, 0);
 // quicksort(my_list);
+
+
+// Task 3
+//Theta(n)
+
+
+// Task 4
+// Theta(n^2)
+
+
+//Task 5
+// Theta(n log n)
