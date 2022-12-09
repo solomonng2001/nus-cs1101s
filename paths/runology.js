@@ -1,15 +1,3 @@
-// Question 1
-// No
-
-
-// Question 2
-// No
-
-
-// Question 3
-// Both the blue heart and red heart runes are viewable and either can be selected to be displayed
-
-
 // Question 4
 // // The following are PREDECLARED:
 // red, blue, stack, heart, nova, show
