@@ -34,5 +34,3 @@ show(persian(heart, 7));
 show(persian(make_cross(rcross), 5));
 const paw = from_url("https://i.imgur.com/GJg95B8.png");
 show(persian(paw, 5));
-
-
