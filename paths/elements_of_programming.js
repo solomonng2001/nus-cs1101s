@@ -1,11 +1,3 @@
-// Question 1
-// 2 + 3
-
-
-// Question 2
-// 25
-
-
 // Question 3
 const foo = 10;
 const bar = 10 + 20;
