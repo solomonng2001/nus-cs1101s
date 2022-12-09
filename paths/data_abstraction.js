@@ -42,3 +42,22 @@ function gt(x, y) {
     // YOUR SOLUTION HERE
     return !lte(x, y);
 }
+
+
+// Question 9
+/* For reference:
+
+function length(xs) {
+    return is_null(xs) ? 0 : 1 + length(tail(xs));
+}
+*/
+
+// Given a list of numbers xs,
+// return the sum of all numbers in xs.
+
+function sum(xs) {
+    // YOUR SOLUTION HERE
+    return is_null(xs)
+        ? 0
+        : head(xs) + sum(tail(xs));
+}
